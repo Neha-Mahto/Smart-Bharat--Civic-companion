@@ -1,3 +1,4 @@
+<img width="1521" height="731" alt="Screenshot 2026-07-14 113149" src="https://github.com/user-attachments/assets/6e26b9cc-ef71-4656-91cf-e5ba245f9fa1" />
 # Smart Bharat – AI-Powered Civic Companion
 
 A GenAI-powered civic platform that helps citizens access government services, report public
