@@ -1,6 +1,4 @@
 # Smart Bharat – AI-Powered Civic Companion
-![Smart Bharat Screenshot](<img width="1521" height="731" alt="Screenshot 2026-07-14 113149" src="https://github.com/user-attachments/assets/dc096801-d3f8-4b93-a5e6-afde9a0bbd2b" />
-)
 
 A GenAI-powered civic platform that helps citizens access government services, report public
 issues, and receive personalized assistance through an intelligent, multilingual AI companion.
